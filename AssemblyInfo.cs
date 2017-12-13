@@ -4,11 +4,11 @@
 // associated with an assembly.
 
 [assembly: AssemblyTitle("PokeManager")]
-[assembly: AssemblyDescription("Pokemon Go Bot")]
+[assembly: AssemblyDescription("Bot PokeManager")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("PokeManager")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
