@@ -1,7 +1,3 @@
 # Change Log
-
-
-**Merged pull requests:**
-
-- Fixes bugs pogolib
--  Update pogolib
+**Release Notes:**
+New 0.87 API support!
