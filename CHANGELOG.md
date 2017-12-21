@@ -1,3 +1,2 @@
-# Change Log
-**Release Notes:**
+# Release Notes
 New 0.87 API support!
