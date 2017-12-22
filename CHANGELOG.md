@@ -1,1 +1,2 @@
-New 0.87 API support!
+- New 0.87 API support!
+- Fixed minor correction
