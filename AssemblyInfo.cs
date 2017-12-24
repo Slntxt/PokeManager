@@ -20,7 +20,7 @@
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 
-[assembly: Guid("a1f0955c-74ca-4cf8-8624-0ad8cf70a292")]
+[assembly: Guid("4c8739ee-42c1-4b99-acb1-ff6ce54439d8")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -31,8 +31,8 @@
 //
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
-// [assembly: AssemblyVersion("1.0.0.3")]
+// [assembly: AssemblyVersion("1.0.0.4")]
 
-[assembly: AssemblyVersion("1.0.0.3")]
-[assembly: AssemblyFileVersion("1.0.0.3")]
-[assembly: AssemblyInformationalVersion("v1.0.0.3")]
+[assembly: AssemblyVersion("1.0.0.4")]
+[assembly: AssemblyFileVersion("1.0.0.4")]
+[assembly: AssemblyInformationalVersion("v1.0.0.4")]
