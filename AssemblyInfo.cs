@@ -20,7 +20,7 @@
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 
-[assembly: Guid("4c8739ee-42c1-4b99-acb1-ff6ce54439d8")]
+[assembly: Guid("a1f0955c-74ca-4cf8-8624-0ad8cf70a292")]
 
 // Version information for an assembly consists of the following four values:
 //
