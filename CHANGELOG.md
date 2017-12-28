@@ -1,2 +1,3 @@
 - New 0.87 API support!
 - Fixed minor correction
+- New Get AR Bonus (Simulation Iphone)
