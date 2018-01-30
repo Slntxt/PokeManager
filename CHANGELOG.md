@@ -1,2 +1,8 @@
 - New 0.89.1 API support!
 - Fixed minor correction
+- New Upgrade Pokemons
+- New Use Incense Constantly
+- New Auto-Farm Pokestops Gym
+- New Auto-Farm Pokestops Gyms Only 
+- New Auto-Add Gym Defenders
+- New Solver Catpcha (Manual, 2Captcha,AntiCaptcha and CaptchaSolutions)
