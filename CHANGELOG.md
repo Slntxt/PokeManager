@@ -1,5 +1,5 @@
 - New 0.89.1 API support!
-- Fixed minor correction
+- Fixed fix in Windows operating systems (Unexpected Closure / I stop responding)
 - New Upgrade Pokemons
 - New Use Incense Constantly
 - New Auto-Farm Pokestops Gym
