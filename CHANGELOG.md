@@ -1,4 +1,4 @@
-- New 0.89.1 API support!
+- New 0.89.1 API support (included since v1.0.0.9)
 - Fixed fix in Windows operating systems (Unexpected Closure / I stop responding)
 - New Upgrade Pokemons
 - New Use Incense Constantly
