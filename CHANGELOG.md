@@ -1,8 +1,1 @@
-- New 0.89.1 API support (included since v1.0.0.9)
-- Fixed fix in Windows operating systems (Unexpected Closure / I stop responding)
-- New Upgrade Pokemons
-- New Use Incense Constantly
-- New Auto-Farm Pokestops Gym
-- New Auto-Farm Pokestops Gyms Only 
-- New Auto-Add Gym Defenders
-- New Solver Catpcha (Manual, 2Captcha,AntiCaptcha and CaptchaSolutions)
+- New 0.91.1 API support
